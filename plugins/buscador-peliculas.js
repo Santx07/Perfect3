@@ -1,4 +1,4 @@
-/* Creado por 𝐊𝐈𝐋𝐋𝐙𝐍 (https://www.instagram.com/ineffable.mvrco/) */
+/* Creado por 𝙎𝘼𝙉𝙏𝙓 (https://www.instagram.com/08._santiago17/) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 

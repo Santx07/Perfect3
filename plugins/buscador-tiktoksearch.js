@@ -1,5 +1,5 @@
-// Codigo hecho para 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 - MD por https://www.instagram.com/ineffable.mvrco/
-// By @ineffable.mvrco
+// Codigo hecho para ꜱᴀɴᴛx - ʙᴏᴛ - MD por https://www.instagram.com/08._santiago17/
+// By @08._santiago17
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
 
